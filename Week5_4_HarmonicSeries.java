@@ -1,4 +1,4 @@
-package Muaaz;
+package Musaib;
 
 import java.util.Scanner;
 
