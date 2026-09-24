@@ -1,4 +1,4 @@
-package Muaaz;
+package Musaib;
 
 public class Week5_1_Array10To100 {
     public static void main(String[] args) {
